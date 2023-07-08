@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=drunkNH&layout=compact&theme=default&text_color=C9D1D9&bg_color=0D1117&icon_color=58A6FF&border_color=30363D&title_color=58A6FF)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **drunkNH/drunkNH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
